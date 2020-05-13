@@ -1,0 +1,57 @@
+mat-toolbar{
+color: white;
+background-color: #0000e6;
+font-size: 17px;
+}
+mat-icon{
+    font-size: 17px;
+}
+.mat-card{
+    // margin:0;
+    padding: 0;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .example-card {
+    margin-top: 7rem;
+    width: 800px;
+    height: 480px;
+    
+  }
+  
+.spacer {
+    flex: 1;
+    // float:right;
+  }
+
+  
+  .con-left{
+      padding-top: 1.5rem;
+      padding-left: 3rem;
+  }
+
+  mat-form-field {
+    width: 30%;
+    padding-top: 10px;
+  }
+
+  .save-btn{
+      background-color:#1a75ff;
+      color: white;
+      margin-top:15px;
+  }
+
+  .cancel-btn{
+      margin-left: 10px;
+      border-color: #1a75ff;
+      margin-top:15px;
+      
+
+  }
+
